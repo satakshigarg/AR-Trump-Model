@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="2eae784877e32b0748fb11604b647545" size="5.000000 3.857143" />
+    <ImageTarget name="100-indian-rupees-banknote-gandhi-no-date-obverse-1" size="5.000000 2.260000" />
+    <ImageTarget name="rupee200Note" size="5.000000 2.258065" />
+  </Tracking>
+</QCARConfig>
